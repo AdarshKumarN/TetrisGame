@@ -23,4 +23,7 @@
         This feature has been implemented into the Tetris Company's official guideline.This type of play differs from traditional Tetris because it takes away the pressure of higher level speed. Some reviewers went so far as to say that this mechanism broke the game. The goal in Tetris Worlds, however, is to complete a certain number of lines as fast as possible, so the ability to hold off a piece's placement will not make achieving that goal any faster. Later, GameSpot received "easy spin" more openly, saying that "the infinite spin issue honestly really affects only a few of the single-player gameplay modes in Tetris DS, because any competitive mode requires you to lay down pieces as quickly as humanly possible."
         Henk Rogers stated in an interview that infinite spin was an intentional part of the game design, allowing novice players to expend some of their available scoring time to decide on the best placement of a piece. Rogers observed that "gratuitous spinning" does not occur in competitive play, as expert players do not require much time to think about where a piece should be placed. A limitation has been placed on infinite lock delay in later games of the franchise, where after a certain amount of rotations and movements, the piece will instantly lock itself. This is defaulted to 15 such actions.
         
+        ![image](https://user-images.githubusercontent.com/110390756/206904410-eebc1ca1-b615-48d4-83fb-23b4dfcba43f.png)
+
+        
 Source:- WIKIPEDIA
